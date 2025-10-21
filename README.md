@@ -7,10 +7,5 @@
   ✉️ anildhoundiyal12345@gmail.com  
   📞 +91 9968824196
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I started learning frontend development with just HTML and CSS, and now I’m diving into building real-world React projects!
-  
+- ⚡ Fun fact: I started learning frontend development with just HTML ,CSS and JAVASCRIPT and now I’m diving into building real-world React projects!
 
-<!---
-anildhoundiyal/anildhoundiyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
