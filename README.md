@@ -63,14 +63,6 @@ Currently learning **React, TypeScript, and Next.js** to move toward full-stack 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anildhoundiyal&layout=compact&theme=tokyonight" />
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anildhoundiyal&theme=matrix&no-frame=true&row=1&margin-w=15">
-</div>
-
 ---
 
 ## 🔗 Connect With Me
